@@ -12,4 +12,4 @@ Statistics: Users retrieve league averages, game averages, trend graphs, high/lo
 
 ## Additional Components
 Account/Event/Ball/Establishment Registration: Users can create accounts and register events, bowling balls, and establishments.
-bbbb
+
